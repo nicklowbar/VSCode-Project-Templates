@@ -1,0 +1,5 @@
+# ignore all build folders
+build
+
+# require explicit update of .vscode/settings.json when changing the color theme
+settings.json
